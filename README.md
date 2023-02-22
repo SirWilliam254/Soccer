@@ -23,3 +23,5 @@ In one study, these five variables accounted for approximately 70% of the variat
 -	Momentum: A team's recent form and momentum can also play a significant role in match outcomes. Teams that are performing well and have a positive momentum going into a match may have a psychological advantage over their opponents.
 
 -	Managerial tactics: The tactics and strategies employed by a team's manager can also influence match outcomes, particularly in terms of how a team sets up defensively or offensively.
+
+
