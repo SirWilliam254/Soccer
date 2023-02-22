@@ -24,4 +24,17 @@ In one study, these five variables accounted for approximately 70% of the variat
 
 -	Managerial tactics: The tactics and strategies employed by a team's manager can also influence match outcomes, particularly in terms of how a team sets up defensively or offensively.
 
+## Metrics to measure player performance
+
+-	Goals Scored: This is one of the most straightforward metrics used to evaluate a player's performance. It simply measures the number of goals a player has scored in a given time period.
+
+-	Assists: An assist is when a player provides the final pass or touch before a goal is scored. This metric measures a player's ability to create goal-scoring opportunities for their teammates.
+
+-	Shots on Goal: This metric measures the number of shots a player has taken that are on target. It can be an indicator of a player's shooting accuracy and ability to create scoring chances.
+
+-	Pass Completion Percentage: This metric measures the percentage of a player's passes that are successfully completed. It can be an indicator of a player's ability to control the ball and distribute it effectively to their teammates.
+
+-	Tackles and Interceptions: These metrics measure a player's defensive contributions, specifically their ability to win back possession of the ball from the opposing team.
+
+-	Distance Covered: This metric measures the distance a player has covered during a match. It can be an indicator of a player's fitness and work rate.
 
